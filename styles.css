@@ -8,6 +8,13 @@ body {
     padding-bottom: 3rem;
     color: #5a5a5a;
   }
+
+  /* NAVIGATION STYLES
+-------------------------------------------------- */
+/* Nav links */
+.nav-link {
+  padding: 0.5rem;
+}
   
   
   /* CUSTOMIZE THE CAROUSEL
