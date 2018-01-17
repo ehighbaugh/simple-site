@@ -21,6 +21,7 @@ body {
   .carousel-caption {
     bottom: 3rem;
     z-index: 10;
+    background-color: rgba(0,0,0,0.5);
   }
   
   /* Declare heights because of positioning of img element */
@@ -35,6 +36,10 @@ body {
     height: auto;
     width: auto;
     max-width: 1583px;
+  }
+
+  .slide {
+
   }
   
   
